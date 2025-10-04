@@ -1,16 +1,15 @@
 # Maze Solver with A* and Depth-First Search
 
-## Description
-Ce projet implémente un **solveur de labyrinthe** en C++ utilisant deux algorithmes principaux :  
+## Description du projet :
+
+Ce projet implémente un **solveur de labyrinthe** en C++. Il utilise deux algorithmes principaux :  
 - **DFS (Depth-First Search / profondeur d’abord)**  
 - **Approche optimisée inspirée de A\*** (heuristique combinant distance à l’objectif et nombre de visites des cases)
 
 Le labyrinthe est lu depuis un fichier `maze.txt` et visualisé dans la console à l’aide de symboles ASCII et emoji.  
-Le programme calcule également des statistiques sur le nombre de déplacements nécessaires pour atteindre la sortie.
+Ce programme  est renforcé par le fait qu'il calcule également des statistiques sur le nombre de déplacements nécessaires pour atteindre la sortie.
 
-> ⚠️ **Projet en cours de développement** : certaines fonctionnalités (interface graphique, optimisation de la visualisation, ajout d’autres algorithmes) sont encore en construction.
-
----
+** Le projet est  toujours en cours de développement** : certaines fonctionnalités (interface graphique, optimisation de la visualisation, ajout d’autres algorithmes) sont encore en construction.
 
 ## Fonctionnalités actuelles
 
